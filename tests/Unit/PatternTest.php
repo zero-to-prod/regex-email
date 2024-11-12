@@ -14,9 +14,12 @@ class PatternTest extends TestCase
      */
     public function pattern(): void
     {
-        self::assertRegExp(
-            RegexEmail::pattern,
-            'example@domain.com'
+        self::assertEquals(
+            1,
+            preg_match(
+                RegexEmail::pattern,
+                'example@domain.com'
+            )
         );
     }
 
@@ -27,9 +30,12 @@ class PatternTest extends TestCase
      */
     public function no_match(): void
     {
-        self::assertNotRegExp(
-            RegexEmail::pattern,
-            'not an email'
+        self::assertEquals(
+            0,
+            preg_match(
+                RegexEmail::pattern,
+                'not an email'
+            )
         );
     }
 }
