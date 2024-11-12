@@ -1,0 +1,39 @@
+{
+  "type": "library",
+  "name": "zero-to-prod/regex-email",
+  "description": "A regular expression to check an email string",
+  "keywords": [
+    "email regex",
+    "zero-to-prod",
+    "regex-email"
+  ],
+  "homepage": "https://github.com/zero-to-prod/regex-email",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Smith",
+      "email": "dave0016@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zerotoprod\\RegexEmail\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "suggest": {
+    "zero-to-prod/transformable": "Transform a class into different types.",
+    "zero-to-prod/data-model-factory": "Factories for a DataModel.",
+    "zero-to-prod/data-model": "Type-safe DTOs"
+  }
+}
