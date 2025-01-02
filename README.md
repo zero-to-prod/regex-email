@@ -9,7 +9,7 @@
 [![Packagist Version](https://img.shields.io/packagist/v/zero-to-prod/regex-email?color=f28d1a)](https://packagist.org/packages/zero-to-prod/regex-email)
 [![License](https://img.shields.io/packagist/l/zero-to-prod/regex-email?color=pink)](https://github.com/zero-to-prod/regex-email/blob/main/LICENSE.md)
 [![wakatime](https://wakatime.com/badge/github/zero-to-prod/regex-email.svg)](https://wakatime.com/badge/github/zero-to-prod/regex-email)
-[![Hits-of-Code](https://hitsofcode.com/github/zero-to-prod//regex-email?branch=main)](https://hitsofcode.com/github/zero-to-prod//regex-email/view?branch=main)
+[![Hits-of-Code](https://hitsofcode.com/github/zero-to-prod/regex-email?branch=main)](https://hitsofcode.com/github/zero-to-prod/regex-email/view?branch=main)
 
 A regular expression to check an Email string.
 
