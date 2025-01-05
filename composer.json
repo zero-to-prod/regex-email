@@ -11,8 +11,8 @@
   "support": {
     "email": "dave0016@gmail.com",
     "issues": "https://github.com/zero-to-prod/regex-email/issues",
-    "source": "https://github.com/zero-to-prod/data-model",
-    "docs": "https://zero-to-prod.github.io/regex-email/",
+    "source": "https://github.com/zero-to-prod/regex-email",
+    "docs": "https://zero-to-prod.github.io/regex-email",
     "security": "https://github.com/zero-to-prod/regex-email/blob/main/SECURITY.md"
   },
   "license": "MIT",
