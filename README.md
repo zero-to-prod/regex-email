@@ -1,4 +1,4 @@
-# Zerotoprod\SemverRegex
+# Zerotoprod\RegexEmail
 
 ![](art/logo.png)
 
