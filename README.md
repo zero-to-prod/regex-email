@@ -4,6 +4,7 @@
 
 [![Repo](https://img.shields.io/badge/github-gray?logo=github)](https://github.com/zero-to-prod/regex-email)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/zero-to-prod/regex-email/test.yml?label=test)](https://github.com/zero-to-prod/regex-email/actions)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/zero-to-prod/regex-email/backwards_compatibility.yml?label=backwards_compatibility)](https://github.com/zero-to-prod/regex-email/actions)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/zero-to-prod/regex-email?color=blue)](https://packagist.org/packages/zero-to-prod/regex-email/stats)
 [![php](https://img.shields.io/packagist/php-v/zero-to-prod/regex-email.svg?color=purple)](https://packagist.org/packages/zero-to-prod/regex-email/stats)
 [![Packagist Version](https://img.shields.io/packagist/v/zero-to-prod/regex-email?color=f28d1a)](https://packagist.org/packages/zero-to-prod/regex-email)
