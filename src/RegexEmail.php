@@ -1,12 +1,17 @@
 <?php
 
 namespace Zerotoprod\RegexEmail;
+/**
+ * A regular expression to check an email string
+ * @link https://github.com/zero-to-prod/regex-email
+ */
 class RegexEmail
 {
     /**
      * A regular expression to check an email string.
      *
      * @link https://stackoverflow.com/questions/201323/how-can-i-validate-an-email-address-using-a-regular-expression/1917982#1917982
+     * @link https://github.com/zero-to-prod/regex-email
      */
     public const pattern = <<< 'REGEX'
 #(?(DEFINE)
